@@ -1,18 +1,18 @@
 {
-  "name": "malvin-xd",
+  "name": "dracula-xd",
   "version": "2.1.1",
   "description": "MALVIN XD - Advanced WhatsApp Bot",
   "website": "cooming soon",
   "logo": "https://i.ibb.co/zHhMyRT3/malvin-xd.jpg",
-  "keywords": ["malvin-xd", "whatsapp-bot"],
-  "repository": "https://github.com/XdKing2/MALVIN-XD",
+  "keywords": ["dracula-xd", "whatsapp-bot"],
+  "repository": "https://github.com/XdKing2/Dracula-XD",
   "success_url": "/",
   "stack": "container",
   "env": {
     "BOT_NAME": {
       "description": "Your Bot Name",
       "required": true,
-      "value": "ᴍᴀʟᴠɪɴ xᴅ"
+      "value": "Dracula xᴅ"
     },
     "OWNER_NAME": {
       "description": "Put Owner Name Here",
@@ -22,7 +22,7 @@
     "OWNER_NUMBER": {
       "description": "Put only one Owner Number Here",
       "required": true,
-      "value": "263776388689"
+      "value": "50931144650"
     },
     "SESSION_ID": {
       "description": "Put your session-id here. Must Start with 'starcore~'",
